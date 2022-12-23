@@ -4,14 +4,26 @@ body {
     margin: 0;
 }
 button {
-    border-radius: 50px;
-    color: #d26f05; 
+    border-radius: 40px;
+    color: #d26f05;
+    font-size: 30px;
     font-weight: bolder;
-    
     text-transform: lowercase;
+    padding: 10px;
+    
 }
 h2 {
     font-family: 'Courier New', Courier, monospace;
     display: flex;
     justify-content: center;
+    text-transform: lowercase;
+    font-weight: bolder;
+    font-size: 35px;
+    color: #014561;
+}
+p {
+    font-size: x-large;
+    color: #014561;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
 }
