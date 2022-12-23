@@ -60,6 +60,7 @@ function createQuestion () {
     question.innerText = `${draw()}`;
     })
 }
+console.log()
 // function displayQuestion() {
 //     //for (let i = 120; i > 0; i--){
 //     setTimeout(() => {
